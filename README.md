@@ -4,8 +4,10 @@ OpenCore for R5-3600 and Asrock B450M Steel legend
 Supported MacOS: 11.3+ (BigSur or Newer)
 
 **Things not working**
-- Docker (recommended to buy Intel CPU instead)
+- Docker (use `docker-machine` with virtualbox instead)
+- Docker Desktop (I used Portainer agent since I have my own server)
 - Side car
+- Universal Control (for MacOS Monterey (12) or newer)
 
 ### How to use it ?
 Download this repo and use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) with `iMacPro1,1` before install the os
