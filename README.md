@@ -1,7 +1,7 @@
 # personal-opencore-efi
 OpenCore for R5-3600 and Asrock B450M Steel legend
 
-Supported OS: MacOS 11.3+ (BigSur or Newer)
+Supported MacOS: 11.3+ (BigSur or Newer)
 
 **Things not working**
 - Docker (recommended to buy Intel CPU instead)
