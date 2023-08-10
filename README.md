@@ -14,7 +14,7 @@ Download this repo and use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) wi
 
 ### My PC spec
 - CPU: R5-3600
-- RAM: 32GB DDR4 2666
+- RAM: 32GB DDR4 3200
 - GPU: AMD Radeon RX570 8GB Msi Armor
 - **(main)** SSD: 240GB Kingston (SATA) + 500GB WD_BLACK SN750 NVME
 - **(optional)** Bluetooth USB 4.0 Adapter TP-LINK 
